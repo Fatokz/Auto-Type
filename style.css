@@ -17,6 +17,10 @@
 h1{
     -webkit-text-stroke: 3px solid red;
 }
+
+#span{
+    color: rebeccapurple;
+}
 #cursor{
     animation-name: cursor;
     animation-iteration-count: infinite;
