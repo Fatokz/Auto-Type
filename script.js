@@ -10,10 +10,11 @@ setInterval(() =>{
     if (num < text.length) {
         num += 1
         console.log(num);
-    }else if(num == text.length){
-        num += -1
-        console.log(num);
     }
+    // }else if(num > 0){
+    //     num -= 1
+    //     console.log(num);
+    // }
     else{
         num = 1
     }
